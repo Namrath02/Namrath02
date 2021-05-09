@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Namrath02
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and Py
 - 💞️ I’m looking to collaborate on ...
 
 <!---
