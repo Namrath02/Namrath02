@@ -7,6 +7,7 @@
 - Good with C, C++, HTML, CSS, JavaScript, x86 Assembly , Bash.
 - 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate on Open Source Dev
+- Currently Interning at Virtual Labs
 - Pronouns : He/Him
 
 <!---
