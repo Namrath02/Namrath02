@@ -4,10 +4,10 @@
 
 - 👋 Hi, I’m @Namrath02
 - 👀 I’m interested in Coding
-- Good with C, C++, HTML, CSS, JavaScript, Py and SQL.
+- Good with C, C++, HTML/CSS, Java, JavaScript, Py and SQL.
 - 🌱 I’m currently learning Machine Learning, get it? 
 - 💞️ I’m looking to collaborate on Open Source Dev
-- Currently Interning at Virtual Labs
+- Previous Summer Intern @ Atlassian
 - Pronouns : He/Him
 
 <!---
